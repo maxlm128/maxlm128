@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxlm128
 - 👀 I’m interested in ... coding, gaming.
 - 🌱 I’m currently learning ... doing Java Lol.
-- 💞️ I’m looking to collaborate on ... working with others to create a awesome project.
+- 💞️ I’m looking to collaborate on ... working with others to create an awesome project.
 - 📫 How to reach me ... go on discord and add me (maxlm_128#4698), please dont Spam
 
 <!---
